@@ -1,0 +1,8 @@
+div {
+	background-color: rgba(105, 105, 105, .6);
+	height: 600px;
+	padding-bottom: 36px;
+	position: relative;
+	left: 50px;
+	width: 600px;
+}
